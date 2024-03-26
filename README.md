@@ -1,5 +1,3 @@
-# **2024 CVPR Object Pose Estimation**
-
 # **Object Pose Estimation in CVPR 2024**
 
 **[[ALL CVPR Accepted Papers](https://cvpr.thecvf.com/Conferences/2024/AcceptedPapers)]**
