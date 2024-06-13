@@ -51,41 +51,43 @@
 
 ## **Category-level Object**
 
-1. **SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SecondPose_SE3-Consistent_Dual-Stream_Feature_Fusion_for_Category-Level_Pose_Estimation_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Chen_SecondPose_SE3-Consistent_Dual-Stream_CVPR_2024_supplemental.pdf)] [[code](https://github.com/NOrangeeroli/SecondPose)]**<br/>
+1. **Category-Level Multi-Part Multi-Joint 3D Shape Assembly [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Category-Level_Multi-Part_Multi-Joint_3D_Shape_Assembly_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Li_Category-Level_Multi-Part_Multi-Joint_CVPR_2024_supplemental.pdf)]**<br/>
+    Yichen Li, Kaichun Mo, Yueqi Duan, He Wang, Jiequan Zhang, Lin Shao  
+    Date & Time: FRIDAY, JUNE 19 / 10:30 - 12:00  
+    Location: #303 / Poster Session 1 & Exhibit Hall (Arch 4A-E)
+
+2. **SecondPose: SE(3)-Consistent Dual-Stream Feature Fusion for Category-Level Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Chen_SecondPose_SE3-Consistent_Dual-Stream_Feature_Fusion_for_Category-Level_Pose_Estimation_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Chen_SecondPose_SE3-Consistent_Dual-Stream_CVPR_2024_supplemental.pdf)] [[code](https://github.com/NOrangeeroli/SecondPose)]**<br/>
     Yamei Chen, Yan Di, Guangyao Zhai, Fabian Manhardt, Chenyangguang Zhang, Ruida Zhang, Federico Tombari, Nassir Navab, Benjamin Busam  
     Date & Time: THURSDAY, JUNE 20 / 10:30 - 12:00  
     Location: #30 / Poster Session 3 & Exhibit Hall (Arch 4A-E)
     
     ![SecondPose](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31505.png?t=1717154605.4264345)
 
-2. **GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement [[page](https://lynne-zheng-linfang.github.io/georef.github.io/)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_GeoReF_Geometric_Alignment_Across_Shape_Variation_for_Category-level_Object_Pose_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zheng_GeoReF_Geometric_Alignment_CVPR_2024_supplemental.zip)] [[code](https://github.com/Lynne-Zheng-Linfang/GeoReF/tree/main)] [[video](https://www.youtube.com/watch?v=gVM2Em5IdeY)]**<br/>
+3. **GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement [[page](https://lynne-zheng-linfang.github.io/georef.github.io/)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_GeoReF_Geometric_Alignment_Across_Shape_Variation_for_Category-level_Object_Pose_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zheng_GeoReF_Geometric_Alignment_CVPR_2024_supplemental.zip)] [[code](https://github.com/Lynne-Zheng-Linfang/GeoReF/tree/main)] [[video](https://www.youtube.com/watch?v=gVM2Em5IdeY)]**<br/>
     Linfang Zheng, Tze Ho Elden Tse, Chen Wang, Yinghan Sun, Hua Chen, Ales Leonardis, Wei Zhang, Hyung Jin Chang  
     Date & Time: THURSDAY, JUNE 20 / 10:30 - 12:00  
     Location: #101 / Poster Session 3 & Exhibit Hall (Arch 4A-E)
     
     ![GeoReF](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29507.png?t=1717088992.1920142)
 
-3. **HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios (Highlight) [[page](https://sites.google.com/view/housecat6d)] [[slide](https://cvpr.thecvf.com/media/cvpr-2024/Slides/31522.pdf)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Jung_HouseCat6D_-_A_Large-Scale_Multi-Modal_Category_Level_6D_Object_Perception_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Jung_HouseCat6D_-_A_CVPR_2024_supplemental.zip)] [[code](https://github.com/Junggy/HouseCat6D?utm_source=catalyzex.com)] [[video](https://www.youtube.com/watch?v=hHPlnsyfUGo)]**<br/>
+4. **HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios (Highlight) [[page](https://sites.google.com/view/housecat6d)] [[slide](https://cvpr.thecvf.com/media/cvpr-2024/Slides/31522.pdf)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Jung_HouseCat6D_-_A_Large-Scale_Multi-Modal_Category_Level_6D_Object_Perception_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Jung_HouseCat6D_-_A_CVPR_2024_supplemental.zip)] [[code](https://github.com/Junggy/HouseCat6D?utm_source=catalyzex.com)] [[video](https://www.youtube.com/watch?v=hHPlnsyfUGo)]**<br/>
     HyunJun Jung, Shun-Cheng Wu, Patrick Ruhkamp, Guangyao Zhai, Hannah Schieber, Giulia Rizzoli, Pengyuan Wang, Hongcheng Zhao, Lorenzo Garattoni, Sven Meier, Daniel Roth, Nassir Navab, Benjamin Busam  
     Date & Time: FRIDAY, JUNE 21 / 10:30 - 12:00  
     Location: #283 / Poster Session 5 & Exhibit Hall (Arch 4A-E)
     
     ![HouseCat6D](https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31522.png?t=1717336771.6142735)
 
-4. **Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Instance-Adaptive_and_Geometric-Aware_Keypoint_Learning_for_Category-Level_6D_Object_Pose_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Lin_Instance-Adaptive_and_Geometric-Aware_CVPR_2024_supplemental.pdf)] [[code](https://github.com/Leeiieeo/AG-Pose)]**<br/>
+5. **Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Instance-Adaptive_and_Geometric-Aware_Keypoint_Learning_for_Category-Level_6D_Object_Pose_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Lin_Instance-Adaptive_and_Geometric-Aware_CVPR_2024_supplemental.pdf)] [[code](https://github.com/Leeiieeo/AG-Pose)]**<br/>
     Xiao Lin, Wenfei Yang, Yuan Gao, Tianzhu Zhang  
     Date & Time: FRIDAY, JUNE 21 / 10:30 - 12:00  
     Location: #145 / Poster Session 5 & Exhibit Hall (Arch 4A-E)
 
-5. **Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Sommer_Unsupervised_Learning_of_Category-Level_3D_Pose_from_Object-Centric_Videos_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Sommer_Unsupervised_Learning_of_CVPR_2024_supplemental.pdf)]**<br/>
+6. **Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Sommer_Unsupervised_Learning_of_Category-Level_3D_Pose_from_Object-Centric_Videos_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Sommer_Unsupervised_Learning_of_CVPR_2024_supplemental.pdf)]**<br/>
     Leonhard Sommer, Artur Jesslen, Eddy Ilg, Adam Kortylewski  
     Date & Time: FRIDAY, JUNE 21 / 10:30 - 12:00  
     Location: #316 / Poster Session 5 & Exhibit Hall (Arch 4A-E)
 
-6. **Category-Level Multi-Part Multi-Joint 3D Shape Assembly [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_Category-Level_Multi-Part_Multi-Joint_3D_Shape_Assembly_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Li_Category-Level_Multi-Part_Multi-Joint_CVPR_2024_supplemental.pdf)]**<br/>
-    Yichen Li, Kaichun Mo, Yueqi Duan, He Wang, Jiequan Zhang, Lin Shao  
-    Date & Time: FRIDAY, JUNE 19 / 10:30 - 12:00  
-    Location: #303 / Poster Session 1 & Exhibit Hall (Arch 4A-E)
+
 
    
     
