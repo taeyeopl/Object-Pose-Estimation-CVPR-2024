@@ -116,11 +116,15 @@
 ## **Friday, June 21**
 
 1. **Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Instance-Adaptive_and_Geometric-Aware_Keypoint_Learning_for_Category-Level_6D_Object_Pose_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Lin_Instance-Adaptive_and_Geometric-Aware_CVPR_2024_supplemental.pdf)] [[code](https://github.com/Leeiieeo/AG-Pose)]**<br/>
-    Xiao Lin, Wenfei Yang, Yuan Gao, Tianzhu Zhang  
+    Jingtao Sun, Yaonan Wang, Mingtao Feng, Yulan Guo, Ajmal Mian, Mike Zheng Shou  
     Time: 10:30 - 12:00  
     Location: #145 / Poster Session 5 & Exhibit Hall (Arch 4A-E)
+2. **L4D-Track: Language-to-4D Modeling Towards 6-DoF Tracking and Shape Reconstruction in 3D Point Cloud Stream [[page](https://s-jingtao.github.io/L4D-Track/)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_L4D-Track_Language-to-4D_Modeling_Towards_6-DoF_Tracking_and_Shape_Reconstruction_in_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Sun_L4D-Track_Language-to-4D_Modeling_CVPR_2024_supplemental.pdf)] [[code](https://github.com/S-JingTao/L4D_Track.git)]**<br/>
+    Xiao Lin, Wenfei Yang, Yuan Gao, Tianzhu Zhang  
+    Time: 10:30 - 12:00  
+    Location: #155 / Poster Session 5 & Exhibit Hall (Arch 4A-E)
 
-2. **HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios (Highlight) [[page](https://sites.google.com/view/housecat6d)] [[slide](https://cvpr.thecvf.com/media/cvpr-2024/Slides/31522.pdf)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Jung_HouseCat6D_-_A_Large-Scale_Multi-Modal_Category_Level_6D_Object_Perception_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Jung_HouseCat6D_-_A_CVPR_2024_supplemental.zip)] [[code](https://github.com/Junggy/HouseCat6D?utm_source=catalyzex.com)] [[video](https://www.youtube.com/watch?v=hHPlnsyfUGo)]**<br/>
+3. **HouseCat6D - A Large-Scale Multi-Modal Category Level 6D Object Perception Dataset with Household Objects in Realistic Scenarios (Highlight) [[page](https://sites.google.com/view/housecat6d)] [[slide](https://cvpr.thecvf.com/media/cvpr-2024/Slides/31522.pdf)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Jung_HouseCat6D_-_A_Large-Scale_Multi-Modal_Category_Level_6D_Object_Perception_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Jung_HouseCat6D_-_A_CVPR_2024_supplemental.zip)] [[code](https://github.com/Junggy/HouseCat6D?utm_source=catalyzex.com)] [[video](https://www.youtube.com/watch?v=hHPlnsyfUGo)]**<br/>
     HyunJun Jung, Shun-Cheng Wu, Patrick Ruhkamp, Guangyao Zhai, Hannah Schieber, Giulia Rizzoli, Pengyuan Wang, Hongcheng Zhao, Lorenzo Garattoni, Sven Meier, Daniel Roth, Nassir Navab, Benjamin Busam  
     Time: 10:30 - 12:00  
     Location: #283 / Poster Session 5 & Exhibit Hall (Arch 4A-E)
@@ -129,7 +133,7 @@
       <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31522.png" alt="HouseCat6D">
     </details>
 
-3. **Towards Co-Evaluation of Cameras HDR and Algorithms for Industrial-Grade 6DoF Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Kalra_Towards_Co-Evaluation_of_Cameras_HDR_and_Algorithms_for_Industrial-Grade_6DoF_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Kalra_Towards_Co-Evaluation_of_CVPR_2024_supplemental.pdf)] [[code](https://github.com/intrinsic-ai/ipd)]**<br/>
+4. **Towards Co-Evaluation of Cameras HDR and Algorithms for Industrial-Grade 6DoF Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Kalra_Towards_Co-Evaluation_of_Cameras_HDR_and_Algorithms_for_Industrial-Grade_6DoF_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Kalra_Towards_Co-Evaluation_of_CVPR_2024_supplemental.pdf)] [[code](https://github.com/intrinsic-ai/ipd)]**<br/>
     Agastya Kalra, Guy Stoppi, Dmitrii Marin, Vage Taamazyan, Aarrushi Shandilya, Rishav Agarwal, Anton Boykov, Tze Hao Chong, Michael Stark  
     Time: 10:30 - 12:00  
     Location: #305 / Poster Session 5 & Exhibit Hall (Arch 4A-E)
@@ -138,12 +142,12 @@
       <img width="2250" alt="30112" src="https://github.com/taeyeopl/Object-Pose-Estimation-CVPR-2024/assets/50736858/c80cb2d7-1736-4030-8957-4622b9af6121" alt="Towards Co-Evaluation of Cameras HDR and Algorithms for Industrial-Grade 6DoF Pose Estimation">
     </details>
 
-4. **Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Sommer_Unsupervised_Learning_of_Category-Level_3D_Pose_from_Object-Centric_Videos_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Sommer_Unsupervised_Learning_of_CVPR_2024_supplemental.pdf)]**<br/>
+5. **Unsupervised Learning of Category-Level 3D Pose from Object-Centric Videos [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Sommer_Unsupervised_Learning_of_Category-Level_3D_Pose_from_Object-Centric_Videos_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Sommer_Unsupervised_Learning_of_CVPR_2024_supplemental.pdf)]**<br/>
     Leonhard Sommer, Artur Jesslen, Eddy Ilg, Adam Kortylewski  
     Time: 10:30 - 12:00  
     Location: #316 / Poster Session 5 & Exhibit Hall (Arch 4A-E)
 
-5. **SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_SAM-6D_Segment_Anything_Model_Meets_Zero-Shot_6D_Object_Pose_Estimation_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Lin_SAM-6D_Segment_Anything_CVPR_2024_supplemental.pdf)] [[code](https://github.com/JiehongLin/SAM-6D?utm_source=catalyzex.com)] [[video](https://www.youtube.com/watch?v=Ubdjy6MYF2w)]**<br/>
+6. **SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_SAM-6D_Segment_Anything_Model_Meets_Zero-Shot_6D_Object_Pose_Estimation_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Lin_SAM-6D_Segment_Anything_CVPR_2024_supplemental.pdf)] [[code](https://github.com/JiehongLin/SAM-6D?utm_source=catalyzex.com)] [[video](https://www.youtube.com/watch?v=Ubdjy6MYF2w)]**<br/>
     Jiehong Lin, Lihua Liu, Dekun Lu, Kui Jia  
     Time: 10:30 - 12:00  
     Location: #361 / Poster Session 6 & Exhibit Hall (Arch 4A-E)
