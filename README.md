@@ -53,8 +53,30 @@
     Time: 10:30 - 12:00  
     Location: #42 / Poster Session 3 & Exhibit Hall (Arch 4A-E)
 
+5. **HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_HiPose_Hierarchical_Binary_Surface_Encoding_and_Correspondence_Pruning_for_RGB-D_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Lin_HiPose_Hierarchical_Binary_CVPR_2024_supplemental.pdf)] [[code](https://github.com/lyltc1/HiPose)] [[video](https://www.youtube.com/watch?v=psEXswln4TQ)]**<br/>
+    Yongliang Lin, Yongzhi Su, Praveen Nathan, Sandeep Inuganti, Yan Di, Martin Sundermeyer, Fabian Manhardt, Didier Stricker, Jason Rambach, Yu Zhang  
+    Time: 10:30 - 12:00  
+    Location: #47 / Poster Session 4 & Exhibit Hall (Arch 4A-E)
+    <details>
+      <summary>poster</summary>
+      <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31095.png" alt="HiPose">
+    </details>
 
-5. **GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement [[page](https://lynne-zheng-linfang.github.io/georef.github.io/)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_GeoReF_Geometric_Alignment_Across_Shape_Variation_for_Category-level_Object_Pose_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zheng_GeoReF_Geometric_Alignment_CVPR_2024_supplemental.zip)] [[code](https://github.com/Lynne-Zheng-Linfang/GeoReF/tree/main)] [[video](https://www.youtube.com/watch?v=gVM2Em5IdeY)]**<br/>
+6. **Object Pose Estimation via the Aggregation of Diffusion Features (Highlight) [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Object_Pose_Estimation_via_the_Aggregation_of_Diffusion_Features_CVPR_2024_paper.pdf)] [[code](https://github.com/Tianfu18/diff-feats-pose)]**<br/>
+    Tianfu Wang, Guosheng Hu, Hongguang Wang  
+    Time: 10:30 - 12:00  
+    Location: #55 / Poster Session 4 & Exhibit Hall (Arch 4A-E)
+    <details>
+      <summary>poster</summary>
+      <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29299.png" alt="Object Pose Estimation via the Aggregation of Diffusion Features">
+    </details>
+
+7. **MRC-Net: 6-DoF Pose Estimation with MultiScale Residual Correlation [[slide](https://cvpr.thecvf.com/media/cvpr-2024/Slides/31095_Tn53ilz.pdf)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MRC-Net_6-DoF_Pose_Estimation_with_MultiScale_Residual_Correlation_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Li_MRC-Net_6-DoF_Pose_CVPR_2024_supplemental.pdf)] [[code](https://github.com/amzn/mrc-net-6d-pose)] [[video](https://www.youtube.com/watch?v=6PZxW2ienUA)]**<br/>
+    Yuelong Li, Yafei Mao, Raja Bala, Sunil Hadap  
+    Time: 10:30 - 12:00  
+    Location: #79 / Poster Session 4 & Exhibit Hall (Arch 4A-E)
+
+8. **GeoReF: Geometric Alignment Across Shape Variation for Category-level Object Pose Refinement [[page](https://lynne-zheng-linfang.github.io/georef.github.io/)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_GeoReF_Geometric_Alignment_Across_Shape_Variation_for_Category-level_Object_Pose_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Zheng_GeoReF_Geometric_Alignment_CVPR_2024_supplemental.zip)] [[code](https://github.com/Lynne-Zheng-Linfang/GeoReF/tree/main)] [[video](https://www.youtube.com/watch?v=gVM2Em5IdeY)]**<br/>
     Linfang Zheng, Tze Ho Elden Tse, Chen Wang, Yinghan Sun, Hua Chen, Ales Leonardis, Wei Zhang, Hyung Jin Chang  
     Time: 10:30 - 12:00  
     Location: #101 / Poster Session 3 & Exhibit Hall (Arch 4A-E)
@@ -63,7 +85,7 @@
       <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29507.png" alt="GeoReF">
     </details>
 
-6. **NOPE: Novel Object Pose Estimation from a Single Image [[page](https://nv-nguyen.github.io/nope/)] [[pdf](https://arxiv.org/pdf/2303.13612)] [[code](https://github.com/nv-nguyen/nope)]**<br/>
+9. **NOPE: Novel Object Pose Estimation from a Single Image [[page](https://nv-nguyen.github.io/nope/)] [[pdf](https://arxiv.org/pdf/2303.13612)] [[code](https://github.com/nv-nguyen/nope)]**<br/>
     Van Nguyen Nguyen, Thibault Groueix, Georgy Ponimatkin, Yinlin Hu, Renaud Marlet, Mathieu Salzmann, Vincent Lepetit  
     Time: 10:30 - 12:00  
     Location: #321 / Poster Session 3 & Exhibit Hall (Arch 4A-E)
@@ -74,31 +96,8 @@
 
 ##
 
-    
-7. **HiPose: Hierarchical Binary Surface Encoding and Correspondence Pruning for RGB-D 6DoF Object Pose Estimation [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_HiPose_Hierarchical_Binary_Surface_Encoding_and_Correspondence_Pruning_for_RGB-D_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Lin_HiPose_Hierarchical_Binary_CVPR_2024_supplemental.pdf)] [[code](https://github.com/lyltc1/HiPose)] [[video](https://www.youtube.com/watch?v=psEXswln4TQ)]**<br/>
-    Yongliang Lin, Yongzhi Su, Praveen Nathan, Sandeep Inuganti, Yan Di, Martin Sundermeyer, Fabian Manhardt, Didier Stricker, Jason Rambach, Yu Zhang  
-    Time: 17:15 - 18:45  
-    Location: #47 / Poster Session 4 & Exhibit Hall (Arch 4A-E)
-    <details>
-      <summary>poster</summary>
-      <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31095.png" alt="HiPose">
-    </details>
 
-8. **Object Pose Estimation via the Aggregation of Diffusion Features (Highlight) [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_Object_Pose_Estimation_via_the_Aggregation_of_Diffusion_Features_CVPR_2024_paper.pdf)] [[code](https://github.com/Tianfu18/diff-feats-pose)]**<br/>
-    Tianfu Wang, Guosheng Hu, Hongguang Wang  
-    Time: 17:15 - 18:45  
-    Location: #55 / Poster Session 4 & Exhibit Hall (Arch 4A-E)
-    <details>
-      <summary>poster</summary>
-      <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/29299.png" alt="Object Pose Estimation via the Aggregation of Diffusion Features">
-    </details>
-    
-9. **MRC-Net: 6-DoF Pose Estimation with MultiScale Residual Correlation [[slide](https://cvpr.thecvf.com/media/cvpr-2024/Slides/31095_Tn53ilz.pdf)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_MRC-Net_6-DoF_Pose_Estimation_with_MultiScale_Residual_Correlation_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Li_MRC-Net_6-DoF_Pose_CVPR_2024_supplemental.pdf)] [[code](https://github.com/amzn/mrc-net-6d-pose)] [[video](https://www.youtube.com/watch?v=6PZxW2ienUA)]**<br/>
-    Yuelong Li, Yafei Mao, Raja Bala, Sunil Hadap  
-    Time: 17:15 - 18:45  
-    Location: #79 / Poster Session 4 & Exhibit Hall (Arch 4A-E)
-
-10. **FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects (Highlight) [[page](https://nvlabs.github.io/FoundationPose/)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Wen_FoundationPose_Unified_6D_CVPR_2024_supplemental.zip)] [[code](https://github.com/NVlabs/FoundationPose)]**<br/>
+1. **FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects (Highlight) [[page](https://nvlabs.github.io/FoundationPose/)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Wen_FoundationPose_Unified_6D_Pose_Estimation_and_Tracking_of_Novel_Objects_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Wen_FoundationPose_Unified_6D_CVPR_2024_supplemental.zip)] [[code](https://github.com/NVlabs/FoundationPose)]**<br/>
     Bowen Wen, Wei Yang, Jan Kautz, Stan Birchfield  
     Time: 17:15 - 18:45  
     Location: #316 / Poster Session 4 & Exhibit Hall (Arch 4A-E)
@@ -107,7 +106,7 @@
       <img src="https://cvpr.thecvf.com/media/PosterPDFs/CVPR%202024/31618.png" alt="FoundationPose">
     </details>
 
-11. **Open-vocabulary object 6D pose estimation (Highlight) [[page](https://jcorsetti.github.io/oryon/)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Corsetti_Open-Vocabulary_Object_6D_Pose_Estimation_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Corsetti_Open-Vocabulary_Object_6D_CVPR_2024_supplemental.pdf)] [[code](https://github.com/jcorsetti/oryon)] [[video](https://www.youtube.com/watch?v=PsLC9rpwcqk&embeds_referring_euri=https%3A%2F%2Fcvpr.thecvf.com%2F&feature=emb_title)]**<br/>
+2. **Open-vocabulary object 6D pose estimation (Highlight) [[page](https://jcorsetti.github.io/oryon/)] [[pdf](https://openaccess.thecvf.com/content/CVPR2024/papers/Corsetti_Open-Vocabulary_Object_6D_Pose_Estimation_CVPR_2024_paper.pdf)] [[sup](https://openaccess.thecvf.com/content/CVPR2024/supplemental/Corsetti_Open-Vocabulary_Object_6D_CVPR_2024_supplemental.pdf)] [[code](https://github.com/jcorsetti/oryon)] [[video](https://www.youtube.com/watch?v=PsLC9rpwcqk&embeds_referring_euri=https%3A%2F%2Fcvpr.thecvf.com%2F&feature=emb_title)]**<br/>
     Jaime Corsetti, Davide Boscaini, Changjae Oh, Andrea Cavallaro, Fabio Poiesi  
     Time: 17:15 - 18:45  
     Location: #335 / Poster Session 4 & Exhibit Hall (Arch 4A-E)
